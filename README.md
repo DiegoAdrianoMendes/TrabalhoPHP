@@ -17,11 +17,11 @@ Exercícios
   
 - Exercício-4:
 
-Faça um programa que receba 3 números. Informe qual é o maior e o menor dos três. Se o resultado da soma dos dois (maior e menor) for maior que 100 o programa deverá apresentar seu resultado multiplicando o maior com o menor. [IF/ELSE][Ex-4](/exercicio4.php)
+  Faça um programa que receba 3 números. Informe qual é o maior e o menor dos três. Se o resultado da soma dos dois (maior e menor) for maior que 100 o programa deverá apresentar seu resultado multiplicando o maior com o menor. [IF/ELSE][Ex-4](/exercicio4.php)
 
 - Exercício-5:
 
-Faça um programa que receba dois números. Um será o valor inicial e o outro será o final. Utilizando a função range() do php mostre a lista destes números (inicial até o final) através de um foreach.[Ex-5](/exercicio5.php)
+  Faça um programa que receba dois números. Um será o valor inicial e o outro será o final. Utilizando a função range() do php mostre a lista destes números (inicial até o final) através de um foreach.[Ex-5](/exercicio5.php)
 
 Verifica.PHP
 ---
