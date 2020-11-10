@@ -26,6 +26,4 @@ Faça um programa que receba dois números. Um será o valor inicial e o outro s
 Verifica.PHP
 ---
 
-O Script que faz todos os cauculos e retorna para as páginas.
-
-[Verifica](/verifica.php)
+O Script que faz todos os cauculos e retorna para as páginas.[Verifica](/verifica.php)
