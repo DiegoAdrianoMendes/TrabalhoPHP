@@ -1,4 +1,4 @@
-# PHP exercises
+# PHP Exercises
 [![Licesnse Badge](https://img.shields.io/badge/license-MIT-green)](https://github.com/DiegoAdrianoMendes/TrabalhoPHP/blob/master/LICENSE)
 
 > Status: Complete ✔️
@@ -48,7 +48,7 @@ Exercises
   Make a program that receives two numbers. One will be the starting value and the other will be the end. Using the range () function of php display the list of these numbers (initial to the end) through a foreach.
 
 
-How to run the application
+How to run the Exercises
 ---
 ```bash
 # clone repository
